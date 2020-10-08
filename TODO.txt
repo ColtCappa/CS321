@@ -34,7 +34,10 @@ AddPlant()
 RemovePlant()
 ClearReminders()
 
-
+GUIClass():
+*implement hierarchial gui for entire application to be accesed using*
+*still to be determined through what format (jframes etc.)*
+*Will be used to seperate different app functions and a title/home screen*
 
 For the reminders:
 -Again, edit the plant database so we can get info from it
